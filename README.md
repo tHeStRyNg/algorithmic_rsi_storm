@@ -7,7 +7,7 @@ EA that uses RSI as main entrypoint and has the following features:
  - Max Amount Daily Profit
  - Max Amount Daily Loss
  - Amount Lots to Risk
- - Only one position at the time (default can be changed based on int )
+ - Only one position at the time (default can be changed based on var inp59_CompareCount now == 1 so if 2 == 2 positions etc. )
  - Alerts when Max Daily Profit was reached and waits for next day at 00:00 to start again on all specified instruments
  - Alerts when Max Daily Loss was reached and waits for next day at 00:00 to start again on all specified instruments
  - 
