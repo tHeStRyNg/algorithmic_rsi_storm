@@ -1,5 +1,5 @@
 ## ALGORITHMIC - RSI STORM
-EA that uses RSI as main entrypoint and has the following features:
+EA that uses RSI as main entrypoint with crossover on MA and has the following features:
  - 26 FX Instruments with possibility to input
  - Trailing Stops
  - Take Profit
@@ -10,11 +10,10 @@ EA that uses RSI as main entrypoint and has the following features:
  - Only one position at the time (default can be changed based on var inp59_CompareCount now == 1 so if 2 == 2 positions etc. )
  - Alerts when Max Daily Profit was reached and waits for next day at 00:00 to start again on all specified instruments
  - Alerts when Max Daily Loss was reached and waits for next day at 00:00 to start again on all specified instruments
- - 
 
-### Logic of version v0.49
+### Logic of version v0.51
 
-![image](https://user-images.githubusercontent.com/118682909/223878951-613c332b-7cde-4fac-9203-10a82c3c7da5.png)
+![image](https://user-images.githubusercontent.com/118682909/223976022-f82a2c3e-d96e-4847-addb-0cdb6b2287e6.png)
 
 ### Customizable Variables v0.49
 
