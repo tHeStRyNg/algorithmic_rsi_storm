@@ -17,6 +17,6 @@ EA that uses RSI as main entrypoint with crossover on MA and has the following f
 
 ### Customizable Variables v0.51
 
-![image](https://user-images.githubusercontent.com/118682909/223879281-3a17aa2a-137a-47d1-b53f-db236e9bf5d0.png)
+![image](https://user-images.githubusercontent.com/118682909/223976542-be0f4fd5-9fed-4746-ada2-239eed98722b.png)
  
 
